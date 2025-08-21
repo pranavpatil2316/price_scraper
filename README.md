@@ -9,7 +9,7 @@ It scrapes product data (book name, price, and availability) from the demo e-com
 ## 🎯 Features
 - Scrapes **Book Title, Price (£), Availability** from multiple pages.
 - Cleans data by removing duplicates and missing values.
-- Saves data into **CSV file (`clean_books_data_inr.csv`)**.
+- Saves data into **CSV file (`clean_books_data.csv`)**.
 - Generates a **histogram** of book price distribution in INR.
 
 ---
@@ -27,7 +27,7 @@ It scrapes product data (book name, price, and availability) from the demo e-com
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/Ecommerce_Price_Monitoring_Scraper.git
+git clone https://github.com/pranavpatil2316/Ecommerce_Price_Monitoring_Scraper.git
 cd Ecommerce_Price_Monitoring_Scraper
 ````
 
